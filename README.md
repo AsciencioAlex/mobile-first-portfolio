@@ -65,6 +65,82 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need to install stylelint as follows:
+
+
+```sh
+ npm init stylelint
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git https://github.com/AsciencioAlex/Hello-Microverse.git
+```
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd Hello-Microverse
+  
+```
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npx stylelint **.css
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  google-chrom index.html
+```
+### Deployment
+
+You can deploy this project using:
+
+```sh
+  http://localhost/Hello-Microverse:8080/
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Alex Asciencio**
+- GitHub: [@githubhandle](https://github.com/AsciencioAlex)
+- Twitter: [@twitterhandle](https://twitter.com/Codnetech)
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/alex-asciencio-413612b9)  
+
+## 🔭 Future Features <a name="future-features"></a>
+
+The other features that will be added to this project are:
+
+- [ ] **Addition of html pages**
+- [ ] **CSS**
+- [ ] **Javascript**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
